@@ -5,7 +5,31 @@
   }
   
 .buttonn button{
-    display: flex;
+    display:inline-block;
     background-color:bisque;
    justify-content: center;
+   padding: 10px;
 }
+.buttonnn button{
+    justify-content: right;
+    display:inline-block;
+    text-align: right;
+    position: static;
+    padding: 10px;
+}
+.buttonn :hover {
+    color: #fff;
+    background-color:rgb(98, 123, 233);
+    padding: 13px;
+    border-radius: 13px;
+    transition: all .3s ease-in-out;
+  }
+  .buttonnn :hover {
+    color: #fff;
+    background-color:rgb(60, 75, 143);
+    padding: 13px;
+    border-radius: 13px;
+    transition: all .3s ease-in-out;
+  }
+
+  
