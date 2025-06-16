@@ -39,11 +39,14 @@
     transition: all .3s ease-in-out;
   }
 
-  h3 {
+  h3{
 color:black;
-text-align: left;
+text-align: right;
 justify-content: left;
+padding-right: 10px;
   }
   p{
     color:blue;
+    float: right;
+    padding-right: 10px;
   }
