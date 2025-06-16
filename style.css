@@ -11,6 +11,7 @@
    justify-content: center;
    padding: 10px;
    font-family: serif;
+   border-radius: 12%;
 }
 .buttonnn button{
     justify-content: right;
@@ -22,7 +23,7 @@
     width: auto ;
     font-family: serif;
     margin-top: 20px;
-    
+    border-radius: 12%;
 }
 .buttonn :hover {
     color: #fff;
